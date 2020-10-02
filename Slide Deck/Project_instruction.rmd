@@ -1,5 +1,5 @@
 ---
-title: "Task 8: Final Project Instructions"
+title: "Project Instructions"
 author: "Abhyuday Shukla"
 date: "`r format(Sys.Date())`"
 output: github_document
