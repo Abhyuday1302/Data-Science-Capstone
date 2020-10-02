@@ -1,6 +1,6 @@
 # Capstone: Milestone Report
-Mark Blackmore  
-October 26, 2017  
+Abhyuday Shukla
+October 02, 2020  
 
 ## Introduction   
 This project analyzes the [HC Corpora Dataset](https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip) with the end goal of creating a Shiny App for predicting n-grams.  This first milestone report summarizes an exploratory data analysis.
